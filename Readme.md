@@ -1,1 +1,1 @@
-# Organica E-Commerce
+# Organica E-Commerce Application
